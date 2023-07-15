@@ -1,6 +1,8 @@
 
 <img src="./public/logo.svg" width="200px" />
 
+<div style="background-color: red; width: 50px; height: 50px; border-radius: 4px;"></div>
+
 # Caramelo UI
 
 A **Caramelo UI** é uma organização *Open Source* que procura trazer
